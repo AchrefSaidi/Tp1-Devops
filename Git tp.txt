@@ -1,4 +1,9 @@
 adding new line for second commit
+
 conflict here
+
+adding new line here
+
+//keeping both changes 
 
 new line added by mahdi
